@@ -197,4 +197,3 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('featureType').textContent = 'Polyline';
         document.getElementById('featureCoords').textContent = polylineCoords.toString();
     });
-
